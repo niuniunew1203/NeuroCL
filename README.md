@@ -13,3 +13,5 @@ To install the required packages, run the following command using pip:
 pip install -r requirements.txt
 
 Note: You need to download the pretrained model weights locally to use ESM for protein sequence encoding. You can manually download the ESM2-650M model and regression.
+
+webserver:http://www.bioai-lab.com/NeuroCL
